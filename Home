@@ -1,5 +1,7 @@
 <html>
 <body>
 <h1>Home</h1>
+<label for="email">Enter your email:</label>
+<input type="email" id="email" name="email">
 </body>
 </html>
